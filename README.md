@@ -67,5 +67,7 @@ AverageSales= Average(sum(CapstoneDataset[Quantity])
 The following visual that draws the insights from the data are displayed below;
 
 ![image](https://github.com/user-attachments/assets/8cf17b68-a72e-4385-b413-f95b87de2ecd)
+![image](https://github.com/user-attachments/assets/698e6cdc-b801-41b1-a809-0d56da6a8b07)
+
 
      
